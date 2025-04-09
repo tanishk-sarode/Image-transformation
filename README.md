@@ -42,7 +42,6 @@ pip install opencv-python-headless numpy
 
 ```bash
 git clone https://github.com/your-username/ImageRegistration.git
-cd ImageRegistration
 ```
 
 2. Run the main script:
